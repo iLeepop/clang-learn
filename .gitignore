@@ -1,1 +1,5 @@
+# vscode ide files
+.vscode/
+
+# C/C++ build artifacts
 **/build/
